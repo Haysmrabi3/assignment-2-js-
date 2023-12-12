@@ -1,0 +1,22 @@
+h1 {
+    font-size: 70px;
+}
+
+p {
+    padding-block: 10px;
+    font-size: 40px;
+}
+
+button {
+    padding: 25px 70px;
+    background-color: blue;
+}
+
+button:hover {
+    background-color: green;
+}
+
+
+.h {
+    text-align: center;
+}
